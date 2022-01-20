@@ -1,0 +1,139 @@
+[
+  {
+    "input": "!@#$%^ tệ",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ rất tệ",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ không sạch sẽ",
+    "output": "bad"
+  },
+  {
+    "input": "sạch sẽ",
+    "output": "good"
+  },
+  {
+    "input": "phòng sạch sẽ",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ xấu",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ kém",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ không tốt",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ khá tệ",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ kém",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^  rất kém",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ quá tệ",
+    "output": "bad"
+  },
+  {
+    "input": "!@#$%^ tốt",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ rất tốt",
+    "output": "good"
+  },
+
+  {
+    "input": "!@#$%^ không kém",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ quá tốt",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ khá tốt",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ rất ưng ý",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ rất nhiệt tình",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ tuyệt vời",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ rất chuyên nghiệp",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ không chuyên nghiệp",
+    "output": "bad"
+  },
+  {
+    "input": "Rất tuyệt vời",
+    "output": "good"
+  },
+  {
+    "input": "!@#$%^ chưa chuyên nghiệp",
+    "output": "bad"
+  },
+  {
+    "input": " phòng yên tĩnh sạch sẽ",
+    "output": "good"
+  },
+  {
+    "input": "phòng bẩn, ồn ào",
+    "output": "bad"
+  },
+  {
+    "input": "nhân viên viên thân thiện",
+    "output": "good"
+  },
+  {
+    "input": "đồ dùng đã cũ",
+    "output": "bad"
+  },
+  {
+    "input": "dịch vụ tuyệt vời",
+    "output": "good"
+  },
+  {
+    "input": "không chất lượng",
+    "output": "bad"
+  },
+  {
+    "input": "nội thất xấu",
+    "output": "good"
+  },
+  {
+    "input": "phục vụ kém",
+    "output": "bad"
+  },
+  {
+    "input": "Giường thoải mái",
+    "output": "good"
+  },
+  {
+    "input": "nhiều mùi hôi",
+    "output": "bad"
+  }
+]
